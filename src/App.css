@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@300;400;900&display=swap");
+
+/* :root{
+  
+} */
+
+body {
+  --font-family: "Sofia Sans", sans-serif;
+  --font-wight-bold: 900;
+  --font-wight-normal: 400;
+  --primary-color: #b45b35;
+  font-family: var(--font-family);
+  --bg-color: #f8f8f8;
+}
+
+.font {
+  font-size: 20px;
+}
+
+.color-body {
+  background-color: var(--bg-color);
+  height: 100vh;
+}
+.App {
+  /* text-align: center; */
+  font-size: var(--font-wight-bold);
+  font-family: var(--font-family);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+.btn {
+    color: black;
+    font-family: var(--font-family);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 24px;
+    border: 1px solid var(--primary-color);
+  }
+
+  .btn:hover {
+    color: black;
+    font-family: Almarai;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 24px;
+    border-radius: 11px;
+    border: none;
+    background-color: #B45B35;
+  }

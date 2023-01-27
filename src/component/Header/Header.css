@@ -1,0 +1,15 @@
+
+.title {
+    color: #224F61;
+    font-family: var(--font-family);
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 64px;
+  }
+  .underline {
+    height: 1px;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid var(--primary-color);
+  }

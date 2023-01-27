@@ -1,0 +1,33 @@
+.img-item {
+  height: 180px;
+  width: 250px !important;
+  border-radius: 5px;
+}
+
+.card {
+  display: flex;
+  flex-direction: row !important;
+  background-color: var(--bg-color);
+}
+
+.item-title {
+  color: #555555;
+  font-family: var(--font-family);
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.item-price {
+  font-family: var(--font-family);
+  color: var(--primary-color);
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.ytitle{
+display: flex;
+justify-content: space-between;
+}
